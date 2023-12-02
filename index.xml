@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Cow bells and sea gulls</title>
+    <title>Cow bells and seagulls on Cow bells and sea gulls</title>
     <link>https://karenstetter.github.io/</link>
-    <description>Recent content on Cow bells and sea gulls</description>
+    <description>Recent content in Cow bells and seagulls on Cow bells and sea gulls</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 02 Dec 2023 18:02:12 +0100</lastBuildDate>
     <atom:link href="https://karenstetter.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Entry 001</title>
@@ -16,11 +15,11 @@
       <description>English version of post 1</description>
     </item>
     <item>
-      <title>Multilinguality</title>
+      <title>General</title>
       <link>https://karenstetter.github.io/post/multilinguality/</link>
       <pubDate>Sat, 02 Dec 2023 17:34:21 +0100</pubDate>
       <guid>https://karenstetter.github.io/post/multilinguality/</guid>
-      <description>Content on this blog will be in both English and German. You can switch by clicking on the de or en in the top right corner.</description>
+      <description>Please read this first!</description>
     </item>
   </channel>
 </rss>

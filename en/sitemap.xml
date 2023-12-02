@@ -2,21 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://karenstetter.github.io/</loc>
-    <lastmod>2023-12-02T19:34:20+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://karenstetter.github.io/de/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://karenstetter.github.io/"
-                />
-  </url><url>
     <loc>https://karenstetter.github.io/post/post_001/</loc>
     <lastmod>2023-12-02T19:34:20+01:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -33,7 +18,7 @@
                 />
   </url><url>
     <loc>https://karenstetter.github.io/post/</loc>
-    <lastmod>2023-12-02T19:34:20+01:00</lastmod>
+    <lastmod>2023-12-02T20:39:02+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -48,7 +33,7 @@
                 />
   </url><url>
     <loc>https://karenstetter.github.io/post/multilinguality/</loc>
-    <lastmod>2023-12-02T19:32:35+01:00</lastmod>
+    <lastmod>2023-12-02T20:39:02+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -74,6 +59,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://karenstetter.github.io/categories/"
+                />
+  </url><url>
+    <loc>https://karenstetter.github.io/</loc>
+    <lastmod>2023-12-02T21:05:33+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://karenstetter.github.io/de/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://karenstetter.github.io/"
                 />
   </url><url>
     <loc>https://karenstetter.github.io/tags/</loc>

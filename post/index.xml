@@ -16,11 +16,11 @@
       <description>English version of post 1</description>
     </item>
     <item>
-      <title>Multilinguality</title>
+      <title>General</title>
       <link>https://karenstetter.github.io/post/multilinguality/</link>
       <pubDate>Sat, 02 Dec 2023 17:34:21 +0100</pubDate>
       <guid>https://karenstetter.github.io/post/multilinguality/</guid>
-      <description>Content on this blog will be in both English and German. You can switch by clicking on the de or en in the top right corner.</description>
+      <description>Please read this first!</description>
     </item>
   </channel>
 </rss>
